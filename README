@@ -1,1 +1,4 @@
-
+data - Contains the data source
+model - Contains project Jupyter notebook 
+documents - Contains project NLP paper and presentation link
+tools - Contains auxillary tools
